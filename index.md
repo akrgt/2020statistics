@@ -5,9 +5,23 @@
 ## 第1講/第2講(09/29)
 
 * [講義資料](https://akrgt.github.io/2020statistics/html/1st2nd.html)
-* [講義資料pdf版](https://akrgt.github.io/2020statistics/html/print_1st2nd.pdf)
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_1st2nd.pdf)
 
 
+
+## 第3講/第4講(10/13)
+
+## 第5講/第6講(10/27)
+
+## 第7講/第8講(11/10)
+
+## 第9講/第10講(11/24)
+
+## 第11講/第12講(12/8)
+
+## 第13講/第14講(12/22)
+
+## 第15講(1/12)
 
 ## 担当
 

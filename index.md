@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 講義資料
 
-You can use the [editor on GitHub](https://github.com/akrgt/statistics2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 湘南医療大学　統計学
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 第1講/第2講(09/29)
 
-### Markdown
+* [講義資料](https://akrgt.github.io/2020statistics/html/1st2nd.html)
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/html/print_1st2nd.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 担当
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akrgt/statistics2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 湘南医療大学　保健医療学部　非常勤講師
+- 明治大学　情報コミュニケーション学部　専任講師
+  - 後藤　晶

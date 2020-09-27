@@ -21,6 +21,10 @@
 
 ## 第15講(1/12)
 
+## リアクションペーパー：毎回必ずお答えください．
+
+[https://forms.gle/8XRRieDup4PHjCXH8](https://forms.gle/8XRRieDup4PHjCXH8)
+
 ## 担当
 
 - 湘南医療大学　保健医療学部　非常勤講師

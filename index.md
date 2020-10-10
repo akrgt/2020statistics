@@ -1,8 +1,12 @@
 # 湘南医療大学　統計学
 
+<div style="text-align: center;">このサイトのURLはhttps://akrgt.github.io/2020statistics/です．</div>
+
+<div align="center">
+<img src="qr.png" title="講義サイトqrコード">
+</div>
 
 
-![qr](qr.png)
 
 
 

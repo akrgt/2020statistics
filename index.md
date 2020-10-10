@@ -1,5 +1,11 @@
 # 湘南医療大学　統計学
 
+
+
+![qr](qr.png)
+
+
+
 ## 第1講/第2講(09/29)
 
 * [講義資料](https://akrgt.github.io/2020statistics/html/1st2nd.html)
@@ -8,6 +14,13 @@
 
 
 ## 第3講/第4講(10/13)
+
+* [講義資料](https://akrgt.github.io/2020statistics/html/3rd4th.html)
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_3rd4th.pdf)
+* [dataの説明](https://akrgt.github.io/2020statistics/html/data_table.html)
+* [data](https://akrgt.github.io/2020statistics/data/exdataset.csv)
+
+
 
 ## 第5講/第6講(10/27)
 

@@ -35,6 +35,9 @@
 
 ## 第7講/第8講(11/10)
 
+* [講義資料](https://akrgt.github.io/2020statistics/html/7th8th.html)
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_7th8th.pdf)
+
 ## 第9講/第10講(11/24)
 
 ## 第11講/第12講(12/8)

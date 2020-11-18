@@ -29,16 +29,30 @@
 ## 第5講/第6講(10/27)
 
 * [講義資料](https://akrgt.github.io/2020statistics/html/5th6th.html)
+
 * [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_5th6th.pdf)
+
 * [dataの説明](https://akrgt.github.io/2020statistics/html/data_table.html)
+
 * [data](https://akrgt.github.io/2020statistics/data/exdataset.csv)
+
+  
 
 ## 第7講/第8講(11/10)
 
 * [講義資料](https://akrgt.github.io/2020statistics/html/7th8th.html)
+
 * [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_7th8th.pdf)
 
+  
+
 ## 第9講/第10講(11/24)
+
+* [講義資料](https://akrgt.github.io/2020statistics/html/9th10th.html)
+
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_9th10th.pdf)
+
+  
 
 ## 第11講/第12講(12/8)
 

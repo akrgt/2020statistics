@@ -56,6 +56,12 @@
 
 ## 第11講/第12講(12/8)
 
+* [講義資料](https://akrgt.github.io/2020statistics/html/11th12th.html)
+
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_11th12th.pdf)
+
+  
+
 ## 第13講/第14講(12/22)
 
 ## 第15講(1/12)

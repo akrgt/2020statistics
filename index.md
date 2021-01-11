@@ -67,14 +67,14 @@
 
 * [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_13th14th.pdf)
 
-
-
-* [講義資料](https://akrgt.github.io/2020statistics/html/13th14th.html)
-
-* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_13th14th.pdf)
-
-
 ## 第15講(1/12)
+
+* [講義資料](https://akrgt.github.io/2020statistics/html/15th.html)
+
+* [講義資料pdf版](https://akrgt.github.io/2020statistics/pdf/print_15th.pdf)
+
+
+## 
 
 ## リアクションペーパー：毎回必ずお答えください．
 
